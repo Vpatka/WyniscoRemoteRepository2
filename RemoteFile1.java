@@ -1,5 +1,6 @@
 Added the first line from GIT HUB
 Add Second line from local
+<<<<<<< HEAD
 <<<<<<< .mine
 Switched to enhancement branch and added third line
 <<<<<<< HEAD
@@ -15,3 +16,6 @@ Switched to enhancement branch and added third line
 
 
 >>>>>>> .theirs
+=======
+Switched to enhancement branch and added third line
+>>>>>>> parent of 8536ee6 (I changed my file which is modified at GITHUB also)
